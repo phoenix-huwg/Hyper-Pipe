@@ -1,0 +1,22 @@
+[
+    {
+        "ID": 1,
+        "MaxLevel": 10,
+        "MinGold": 10
+    },
+    {
+        "ID": 2,
+        "MaxLevel": 20,
+        "MinGold": 25
+    },
+    {
+        "ID": 3,
+        "MaxLevel": 30,
+        "MinGold": 40
+    },
+    {
+        "ID": 4,
+        "MaxLevel": 40,
+        "MinGold": 50
+    }
+]

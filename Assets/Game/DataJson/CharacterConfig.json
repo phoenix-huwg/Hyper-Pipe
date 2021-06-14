@@ -1,0 +1,170 @@
+[
+    {
+        "ID": 1,
+        "Name": "Fire Fighter",
+        "Price": 100,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 2,
+        "Name": "Fire Fighter 1",
+        "Price": 500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 3,
+        "Name": "Fire Fighter 2",
+        "Price": 500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 4,
+        "Name": "Fire Fighter 3",
+        "Price": 500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 5,
+        "Name": "Flash",
+        "Price": 1000,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 2
+    },
+    {
+        "ID": 6,
+        "Name": "Santa",
+        "Price": 1500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 2
+    },
+    {
+        "ID": 7,
+        "Name": "Television man",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 3,
+        "Rarity": 2
+    },
+    {
+        "ID": 8,
+        "Name": "Wizard",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 1,
+        "Rarity": 3
+    },
+    {
+        "ID": 9,
+        "Name": "Worker",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 3,
+        "Rarity": 3
+    },
+    {
+        "ID": 10,
+        "Name": "Astronaus",
+        "Price": 100,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 11,
+        "Name": "Bat Boy",
+        "Price": 500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 12,
+        "Name": "Bear",
+        "Price": 500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 13,
+        "Name": "Blue Boy",
+        "Price": 500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 1
+    },
+    {
+        "ID": 14,
+        "Name": "Business Man",
+        "Price": 1000,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 2
+    },
+    {
+        "ID": 15,
+        "Name": "Clown",
+        "Price": 1500,
+        "AdsCheck": 0,
+        "AdsNumber": 0,
+        "Rarity": 2
+    },
+    {
+        "ID": 16,
+        "Name": "Cow Boy",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 3,
+        "Rarity": 2
+    },
+    {
+        "ID": 17,
+        "Name": "Green Boy",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 1,
+        "Rarity": 3
+    },
+    {
+        "ID": 18,
+        "Name": "Mohawk Boy",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 3,
+        "Rarity": 3
+    },
+    {
+        "ID": 19,
+        "Name": "Street Boy",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 1,
+        "Rarity": 2
+    },
+    {
+        "ID": 20,
+        "Name": "Super Boy",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 1,
+        "Rarity": 3
+    },
+    {
+        "ID": 21,
+        "Name": "Viking",
+        "Price": 0,
+        "AdsCheck": 1,
+        "AdsNumber": 3,
+        "Rarity": 3
+    }
+]

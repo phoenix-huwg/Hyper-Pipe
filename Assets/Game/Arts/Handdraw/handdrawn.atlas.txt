@@ -1,0 +1,20 @@
+
+handdrawn.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hand
+  rotate: false
+  xy: 385, 332
+  size: 105, 158
+  orig: 105, 158
+  offset: 0, 0
+  index: -1
+infinity
+  rotate: false
+  xy: 2, 306
+  size: 381, 184
+  orig: 381, 184
+  offset: 0, 0
+  index: -1
